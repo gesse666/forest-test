@@ -1,1 +1,3 @@
-# forest-test
+1. установить npm i
+
+2. собрать gulp
